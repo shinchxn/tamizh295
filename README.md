@@ -1,26 +1,25 @@
-<!-- Banner -->
+<!-- 🔥 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tamizharasan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tamizharasan%20Full%20Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Profile Photo -->
+<!-- 🧑‍💻 Profile Photo (Circle) -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/YOUR_USERNAME?v=4" width="120" style="border-radius:50%" />
+  <img src="https://avatars.githubusercontent.com/tamizh295?v=4" width="140" style="border-radius:50%; border:3px solid #00F7FF;" />
 </p>
 
-<!-- Typing Animation -->
+<!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Freelance+Full+Stack+Developer;Cyber+Security+Student;Building+Secure+Web+Apps;React+%7C+Next.js+%7C+Node.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Tamizharasan+-+Full+Stack+Developer+India;Freelance+Web+Developer;Cyber+Security+Student;React+%7C+Next.js+%7C+Node.js+Expert" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 Tamizharasan | Full Stack Developer India & Cyber Security Student
 
-💻 Freelance Full Stack Developer  
-🔐 Cyber Security Student  
-⚡ Building secure, scalable & modern web applications  
-🚀 Passionate about real-world problem solving  
+🚀 Freelance Full Stack Developer specializing in **React, Next.js, Node.js**  
+🔐 Cyber Security Student focused on **Web Security & Ethical Hacking**  
+💼 Helping clients build **secure, scalable, high-performance web apps**
 
 ---
 
@@ -28,7 +27,7 @@
 
 <p align="center">
   <a href="https://tamizharasan.netlify.app/">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -67,22 +66,31 @@
 
 ---
 
-## 🚀 Top Projects
+## 🚀 Featured Projects
 
-🔐 Cyber Security Tools (XSS, SSRF Testing)  
-🌐 Full Stack Apps (Next.js + Node.js)  
+🔐 Cyber Security Tools (XSS Scanner, SSRF Testing Tool)  
+🌐 Full Stack Apps (Next.js + Node.js + Supabase)  
 🧑‍💼 Portfolio with Admin Panel  
 
 ---
 
-## 💼 Freelance
+## 💼 Freelance Services
 
-🚀 Available for freelance projects  
-💡 Web Development + Security Testing  
+✔ Full Stack Web Development  
+✔ Secure Admin Dashboards  
+✔ Website Security Testing (Basic)  
+
+📩 Open for freelance work & collaborations  
 
 ---
 
-## ⚡ Quote
+## 🔍 SEO Keywords (Google Ranking Boost)
+
+Tamizharasan,tamizh, Full Stack Developer India, Freelance Web Developer India, React Developer, Node.js Developer, Cyber Security Student, Ethical Hacker
+
+---
+
+## ⚡ Hacker Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -90,7 +98,7 @@
 
 ---
 
-<!-- Footer -->
+<!-- 🔻 Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
