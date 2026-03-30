@@ -4,16 +4,17 @@
 </p>
 
 <!-- ⚡ Typing Animation -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Tamizharasan+%7C+Full+Stack+Developer+India;Freelance+Web+Developer+for+Clients;Cyber+Security+Student+%7C+Ethical+Hacking;Building+Secure+%26+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Tamizharasan+%7C+Full+Stack+Developer+India;Freelance+Web+Developer+for+Clients;Cyber+Security+Student+%7C+Ethical+Hacking;Prompt+Engineer+%7C+AI+Explorer;Building+Secure+%26+Scalable+Web+Apps" />
 </p>
+
 ---
 
-# 👋 Tamizharasan | Full Stack vibe code Developer & Cyber Security Student
+# 👋 Tamizharasan | Full Stack Developer • Cyber Security • Prompt Engineer
 
 🚀 Freelance Full Stack Developer specializing in **React, Next.js, Node.js**  
 🔐 Cyber Security Student focused on **Web Security & Ethical Hacking**  
+🧠 Prompt Engineer exploring **AI tools & automation**  
 💼 Helping clients build **secure, scalable, high-performance web apps**
 
 ---
@@ -44,11 +45,47 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,mysql,js,html,css,tailwind,python,linux,git" />
+<img src="https://skillicons.dev/icons?i=js,python,c" />
 </p>
+
+---
+
+## ⚙️ Frameworks & Libraries
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+---
+
+## 🛠️ IDE & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+</p>
+
+---
+
+## 🎨 UI/UX & Design
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+</p>
+
+- 🎨 UI Design (Figma / modern workflows)  
+- ⚡ Interactive UI experiments  
+- 🧪 Creative builds like Google Anti-Gravity concepts  
 
 ---
 
@@ -73,15 +110,16 @@
 
 ✔ Full Stack Web Development  
 ✔ Secure Admin Dashboards  
-✔ Website Security Testing (Basic)  
+✔ Website Security Testing  
+✔ UI/UX Design & Optimization  
 
 📩 Open for freelance work & collaborations  
 
 ---
 
-## 🔍 SEO Keywords (Google Ranking Boost)
+## 🔍 SEO Keywords
 
-Tamizharasan,tamizh,shinchxn, Full Stack Developer India, Freelance Web Developer India, React Developer, Node.js Developer, Cyber Security Student, Ethical Hacker
+Tamizharasan, Full Stack Developer India, Freelance Web Developer India, React Developer, Node.js Developer, Cyber Security Student, Ethical Hacker, Prompt Engineer, UI Designer
 
 ---
 
