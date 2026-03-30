@@ -22,7 +22,7 @@
 ## 🌐 Portfolio
 
 <p align="center">
-  <a href="https://tamizharasan.netlify.app/">
+  <a href="https://tamizharasan.vercel.app/">
     <img src="https://img.shields.io/badge/View%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
