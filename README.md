@@ -5,12 +5,12 @@
 
 <!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Tamizharasan+-+Full+Stack+Developer+India;Freelance+Web+Developer;Cyber+Security+Student;React+%7C+Next.js+%7C+Node.js+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Tamizharasan -+Freelancer;Freelance+Web+Developer;Cyber+Security+Student;React+%7C+Next.js+%7C+Node.js+Expert" />
 </p>
 
 ---
 
-# 👋 Tamizharasan | Full Stack Developer India & Cyber Security Student
+# 👋 Tamizharasan | Full Stack vibe code Developer & Cyber Security Student
 
 🚀 Freelance Full Stack Developer specializing in **React, Next.js, Node.js**  
 🔐 Cyber Security Student focused on **Web Security & Ethical Hacking**  
