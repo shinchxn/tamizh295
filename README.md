@@ -10,7 +10,7 @@
 
 ---
 
-# 👋 Tamizharasan | Full Stack Developer • Cyber Security • Prompt Engineer
+# 👋 Tamizharasan |• Cyber Security • Agentic Engineer •
 
 🚀 Freelance Full Stack Developer specializing in **React, Next.js, Node.js**  
 🔐 Cyber Security Student focused on **Web Security & Ethical Hacking**  
