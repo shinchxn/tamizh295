@@ -1,21 +1,22 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tamizharasan%20Agentic%20Engineer%20 & Cyber Security&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tamizharasan%20%7C%20Full%20Stack%20Developer%20%7C%20Cyber%20Security&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Tamizharasan+%7C+Full+Stack+Developer+India;Freelance+Web+Developer+for+Clients;Cyber+Security+Student+%7C+Ethical+Hacking;Prompt+Engineer+%7C+AI+Explorer;Building+Secure+%26+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(React+%2F+Next.js+%2F+Node.js);Cyber+Security+Enthusiast+%7C+Ethical+Hacking;Freelance+Web+Developer+for+Clients;AI+%26+Automation+Explorer;Building+Secure+%26+Scalable+Applications" />
 </p>
 
 ---
 
-# 👋 Tamizharasan |• Cyber Security • Agentic Engineer •
+# 👋 Tamizharasan  
+### 🔐 Cyber Security Enthusiast | 🌐 Full Stack Developer | 🤖 AI & Automation Explorer  
 
-🚀 Freelance Full Stack Developer specializing in **React, Next.js, Node.js**  
-🔐 Cyber Security Student focused on **Web Security & Ethical Hacking**  
-🧠 Prompt Engineer exploring **AI tools & automation**  
-💼 Helping clients build **secure, scalable, high-performance web apps**
+🚀 Freelance Developer building **secure, scalable, high-performance web apps**  
+🔐 Focused on **Web Security, Vulnerability Testing & Ethical Hacking**  
+🧠 Exploring **AI tools, automation & prompt engineering**  
+💼 Helping businesses & clients build **modern digital solutions**  
 
 ---
 
@@ -45,31 +46,37 @@
 
 ---
 
-## 🧑‍💻 Programming Languages
+## 🧠 Core Skills
+
+- **Frontend:** React, Next.js, HTML5, CSS3, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Security:** XSS, SSRF, Web Vulnerability Testing  
+- **Tools:** Git, GitHub, Postman, VS Code  
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,c,html" />
+  <img src="https://skillicons.dev/icons?i=js,python,c,html,css" />
 </p>
 
-## ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
 </p>
 
-## 🗄️ Databases
+### Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-## 🛠️ IDE & Development Environment
+### Tools & Environment
 <p align="center">
-  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 </p>
-
-## 🎨 UI Design
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Stitch-34A853?style=for-the-badge&logo=google&logoColor=white" />
-</p>  
 
 ---
 
@@ -80,34 +87,57 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=10" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
 ---
 
 ## 🚀 Featured Projects
 
-🔐 Cyber Security Tools (XSS Scanner, SSRF Testing Tool)  
-🌐 Full Stack Apps (Next.js + Node.js + Supabase)  
-🧑‍💼 Portfolio with Admin Panel  
+🔐 **XSS Scanner Tool**  
+→ Detects XSS vulnerabilities in web apps  
+🔗 https://github.com/YOUR_USERNAME/xss-scanner  
+
+🌐 **Full Stack Web App**  
+→ Built with Next.js, Node.js & MongoDB  
+🔗 https://github.com/YOUR_USERNAME/fullstack-app  
+
+🧑‍💼 **Portfolio with Admin Panel**  
+→ Dynamic portfolio with content management  
+🔗 https://github.com/YOUR_USERNAME/portfolio  
 
 ---
 
-## 💼 Freelance Services
+## 📚 Currently Learning
 
-✔ Full Stack Web Development  
-✔ Secure Admin Dashboards  
-✔ Website Security Testing  
-✔ UI/UX Design & Optimization  
+- Advanced Web Security (OWASP Top 10)  
+- Backend Scaling & System Design  
+- AI Agents & Automation Workflows  
 
-📩 Open for freelance work & collaborations  
+---
+
+## 💼 Hire Me
+
+🚀 Need a **secure, scalable website or web app?**
+
+✔ Business Websites  
+✔ Admin Dashboards  
+✔ Secure Web Applications  
+✔ Bug Fixing & Performance Optimization  
+
+📩 Email: tamizharasanravi29@gmail.com  
+🌐 Portfolio: https://tamizharasan.vercel.app/  
 
 ---
 
 ## 🔍 SEO Keywords
 
-Tamizharasan, Full Stack Developer India, Freelance Web Developer India, React Developer, Node.js Developer, Cyber Security Student, Ethical Hacker, Prompt Engineer, UI Designer
+Full Stack Developer India, React Developer, Node.js Developer, Freelance Web Developer, Cyber Security Student, Ethical Hacker, Prompt Engineer, Web Security Expert  
 
 ---
 
-## ⚡ Hacker Quote
+## ⚡ Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
