@@ -1,22 +1,31 @@
-<!-- 🔥 Banner -->
+<!-- 🔥 Premium Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tamizharasan%20%7C%20Full%20Stack%20Developer%20%7C%20Cyber%20Security&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Tamizharasan&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cyber%20Security%20%7C%20AI%20Explorer&descSize=18&descAlignY=55"/>
 </p>
 
-<!-- ⚡ Typing Animation -->
+<!-- ⚡ Neon Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(React+%2F+Next.js+%2F+Node.js);Cyber+Security+Enthusiast+%7C+Ethical+Hacking;Freelance+Web+Developer+for+Clients;AI+%26+Automation+Explorer;Building+Secure+%26+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;🔐+Cyber+Security+Enthusiast;🤖+AI+%26+Automation+Explorer;💼+Freelancer+Building+Secure+Apps;⚡+React+%7C+Next.js+%7C+Node.js" />
 </p>
 
 ---
 
-# 👋 Tamizharasan  
-### 🔐 Cyber Security Enthusiast | 🌐 Full Stack Developer | 🤖 AI & Automation Explorer  
+# 👋 Hey, I'm Tamizharasan  
 
-🚀 Freelance Developer building **secure, scalable, high-performance web apps**  
-🔐 Focused on **Web Security, Vulnerability Testing & Ethical Hacking**  
-🧠 Exploring **AI tools, automation & prompt engineering**  
-💼 Helping businesses & clients build **modern digital solutions**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Security-00F7FF?style=for-the-badge&logo=target&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Freelancer-Available-39FF14?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AI-Explorer-FF00FF?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+💻 Building **secure, scalable, modern web apps**  
+🔐 Passionate about **Web Security & Ethical Hacking**  
+🧠 Exploring **AI, Automation & Prompt Engineering**  
+💼 Helping clients create **fast & secure digital products**  
 
 ---
 
@@ -24,7 +33,7 @@
 
 <p align="center">
   <a href="https://tamizharasan.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
   </a>
 </p>
 
@@ -34,48 +43,32 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tamizharasan-r-b6659537a">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://instagram.com/shinchxn_29">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram"/>
   </a>
   <a href="mailto:tamizharasanravi29@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-FF3B3B?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Tech Stack
 
-- **Frontend:** React, Next.js, HTML5, CSS3, JavaScript  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
-- **Security:** XSS, SSRF, Web Vulnerability Testing  
-- **Tools:** Git, GitHub, Postman, VS Code  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,c,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 🔐 Security Focus
 
-### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,c,html,css" />
-</p>
-
-### Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
-</p>
-
-### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools & Environment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+  <img src="https://img.shields.io/badge/XSS-Testing-FF073A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SSRF-Analysis-FF8C00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web%20Security-OWASP-00F7FF?style=for-the-badge"/>
 </p>
 
 ---
@@ -83,12 +76,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=10" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&ring=00F7FF" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&color=00F7FF&line=00F7FF"/>
 </p>
 
 ---
@@ -96,48 +89,33 @@
 ## 🚀 Featured Projects
 
 🔐 **XSS Scanner Tool**  
-→ Detects XSS vulnerabilities in web apps  
-🔗 https://github.com/YOUR_USERNAME/xss-scanner  
+→ Detect vulnerabilities in web apps  
 
-🌐 **Full Stack Web App**  
-→ Built with Next.js, Node.js & MongoDB  
-🔗 https://github.com/YOUR_USERNAME/fullstack-app  
+🌐 **Full Stack SaaS App**  
+→ Next.js + Node.js + MongoDB  
 
 🧑‍💼 **Portfolio with Admin Panel**  
-→ Dynamic portfolio with content management  
-🔗 https://github.com/YOUR_USERNAME/portfolio  
-
----
-
-## 📚 Currently Learning
-
-- Advanced Web Security (OWASP Top 10)  
-- Backend Scaling & System Design  
-- AI Agents & Automation Workflows  
+→ Dynamic content management  
 
 ---
 
 ## 💼 Hire Me
 
-🚀 Need a **secure, scalable website or web app?**
+<p align="center">
+  <img src="https://img.shields.io/badge/Available%20for-Freelance-39FF14?style=for-the-badge"/>
+</p>
 
-✔ Business Websites  
-✔ Admin Dashboards  
+✔ Full Stack Web Development  
 ✔ Secure Web Applications  
-✔ Bug Fixing & Performance Optimization  
+✔ Admin Dashboards  
+✔ Bug Fixing & Optimization  
 
-📩 Email: tamizharasanravi29@gmail.com  
-🌐 Portfolio: https://tamizharasan.vercel.app/  
-
----
-
-## 🔍 SEO Keywords
-
-Full Stack Developer India, React Developer, Node.js Developer, Freelance Web Developer, Cyber Security Student, Ethical Hacker, Prompt Engineer, Web Security Expert  
+📩 **Email:** tamizharasanravi29@gmail.com  
+🌐 **Portfolio:** https://tamizharasan.vercel.app/  
 
 ---
 
-## ⚡ Quote
+## ⚡ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -145,7 +123,7 @@ Full Stack Developer India, React Developer, Node.js Developer, Freelance Web De
 
 ---
 
-<!-- 🔻 Footer -->
+<!-- 🔻 Neon Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=120&section=footer"/>
 </p>
